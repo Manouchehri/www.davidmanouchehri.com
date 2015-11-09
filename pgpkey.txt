@@ -1,0 +1,4 @@
+This file claims ownership of the OpenPGP key with long id 0xa6ecfd0c40839755.
+
+Token for proof:
+[Verifying my OpenPGP key: openpgp4fpr:f0fe029614ea35bc9e4f9768a6ecfd0c40839755]
